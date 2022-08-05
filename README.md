@@ -5,8 +5,10 @@ infineon.aia - исходник для MIT App Invertor.
 infineon.apk - сборка. 
   
 Собрано в MIT App Invertor.  
-Подходит для контроллера 18fet Ingineon e4bike 
+Подходит для контроллера 18fet Infineon e4bike 
   
 Использованны:  
 Исходники оригинального ПО e4bike :  https://github.com/the-wr/infineon  
 Так-же расшифрофка протокола : https://docs.google.com/document/d/1_j1sQXE_mUbxM1kt8uC3dCofh9ERctOILo7Q009rxnY/edit#
+
+Пользуйтесь на свой страх и риск.  
