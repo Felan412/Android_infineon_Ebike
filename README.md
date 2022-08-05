@@ -9,6 +9,7 @@ infineon.apk - сборка.
   
 Использованны:  
 Исходники оригинального ПО e4bike :  https://github.com/the-wr/infineon  
-Так-же расшифрофка протокола : https://docs.google.com/document/d/1_j1sQXE_mUbxM1kt8uC3dCofh9ERctOILo7Q009rxnY/edit#
+Расшифрофка протокола : https://docs.google.com/document/d/1_j1sQXE_mUbxM1kt8uC3dCofh9ERctOILo7Q009rxnY/edit#  
+Расширенная библиотека SerialOTG : https://github.com/rkl099/Appinventor-SerialOTG  
 
 Пользуйтесь на свой страх и риск.  
