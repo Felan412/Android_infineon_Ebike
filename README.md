@@ -13,4 +13,5 @@ infineon.apk - сборка.
 Расширенная библиотека SerialOTG : https://github.com/rkl099/Appinventor-SerialOTG  
 
 Пользуйтесь на свой страх и риск.  
-![Image alt](https://github.com/Felan412/Android_infineon_Ebike/raw/master/img1.jpg)
+![Image alt](https://github.com/Felan412/Android_infineon_Ebike/blob/main/img1.jpg)
+![Image alt](https://github.com/Felan412/Android_infineon_Ebike/blob/main/img2.jpg)
